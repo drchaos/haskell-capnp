@@ -44,6 +44,8 @@ library
       , Data.CapNProto.Pointer
       , Data.CapNProto.Schema
       , Data.CapNProto.Untyped
+      , Language.CapNProto.Codegen.Format
+      , Language.CapNProto.Codegen.Types
       , Language.CapNProto.TH
       , Schema.CapNProto.Reader.Schema
       , Schema.CapNProto.Reader.Schema.Node
